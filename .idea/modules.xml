@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jsoupxpath/JsoupXpath.iml" filepath="$PROJECT_DIR$/../jsoupxpath/JsoupXpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study_spring_01/activiti/activiti.iml" filepath="$PROJECT_DIR$/../study_spring_01/activiti/activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study_java/study_java.iml" filepath="$PROJECT_DIR$/../study_java/study_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study_spring/study_spring.iml" filepath="$PROJECT_DIR$/../study_spring/study_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study_spring_01/study_spring (1).iml" filepath="$PROJECT_DIR$/../study_spring_01/study_spring (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/xwq1/xwq1.iml" filepath="$PROJECT_DIR$/xwq1/xwq1.iml" />
+    </modules>
+  </component>
+</project>
